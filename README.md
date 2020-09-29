@@ -1,3 +1,3 @@
 # spam-filter
 
-Spam Filter created on PHP.
+Spam Filter created with PHP.
